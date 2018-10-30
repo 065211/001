@@ -25,7 +25,7 @@ public class MakeOrder extends javax.swing.JFrame {
                     public void windowClosing(java.awt.event.WindowEvent e) 
                     {
                         int y;
-                        y=JOptionPane.showConfirmDialog(jPanel1,"Do Really You Want to Exit This Application?","Confirm!",JOptionPane.YES_NO_OPTION);
+                        y=JOptionPane.showConfirmDialog(jPanel1,"Do Really You Want to Quit Kitchen Gourmet?","Confirm!",JOptionPane.YES_NO_OPTION);
                         if(y==JOptionPane.YES_OPTION)
                         {
                         System.exit(0);
@@ -67,7 +67,7 @@ public class MakeOrder extends javax.swing.JFrame {
 
         drinks.setFont(new java.awt.Font("Segoe UI", 1, 13)); // NOI18N
         drinks.setForeground(new java.awt.Color(255, 255, 255));
-        drinks.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kings\\Documents\\NetBeansProjects\\Kitchen\\src\\MainPackage\\drinks.png")); // NOI18N
+        drinks.setIcon(new javax.swing.ImageIcon("C:\\Users\\SHITSUKANE\\Documents\\NetBeansProjects\\Kitchen\\src\\MainPackage\\drinks.png")); // NOI18N
         drinks.setText("Drinks");
         drinks.setToolTipText("Order for foods");
         drinks.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -79,7 +79,7 @@ public class MakeOrder extends javax.swing.JFrame {
         });
 
         foods.setFont(new java.awt.Font("Segoe UI", 1, 13)); // NOI18N
-        foods.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kings\\Documents\\NetBeansProjects\\Kitchen\\src\\MainPackage\\foods.png")); // NOI18N
+        foods.setIcon(new javax.swing.ImageIcon("C:\\Users\\SHITSUKANE\\Documents\\NetBeansProjects\\Kitchen\\src\\MainPackage\\foods.png")); // NOI18N
         foods.setText("Foods");
         foods.setToolTipText("Order for foods");
         foods.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -92,7 +92,7 @@ public class MakeOrder extends javax.swing.JFrame {
 
         others.setFont(new java.awt.Font("Segoe UI", 1, 13)); // NOI18N
         others.setForeground(new java.awt.Color(255, 255, 255));
-        others.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kings\\Documents\\NetBeansProjects\\Kitchen\\src\\MainPackage\\others.png")); // NOI18N
+        others.setIcon(new javax.swing.ImageIcon("C:\\Users\\SHITSUKANE\\Documents\\NetBeansProjects\\Kitchen\\src\\MainPackage\\others.png")); // NOI18N
         others.setText("Others");
         others.setToolTipText("Order for foods");
         others.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);

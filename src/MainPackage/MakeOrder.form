@@ -137,7 +137,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Kings\Documents\NetBeansProjects\Kitchen\src\MainPackage\drinks.png"/>
+              <Image iconType="2" name="C:\Users\SHITSUKANE\Documents\NetBeansProjects\Kitchen\src\MainPackage\drinks.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Drinks"/>
             <Property name="toolTipText" type="java.lang.String" value="Order for foods"/>
@@ -154,7 +154,7 @@
               <Font name="Segoe UI" size="13" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Kings\Documents\NetBeansProjects\Kitchen\src\MainPackage\foods.png"/>
+              <Image iconType="2" name="C:\Users\SHITSUKANE\Documents\NetBeansProjects\Kitchen\src\MainPackage\foods.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Foods"/>
             <Property name="toolTipText" type="java.lang.String" value="Order for foods"/>
@@ -174,7 +174,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Kings\Documents\NetBeansProjects\Kitchen\src\MainPackage\others.png"/>
+              <Image iconType="2" name="C:\Users\SHITSUKANE\Documents\NetBeansProjects\Kitchen\src\MainPackage\others.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Others"/>
             <Property name="toolTipText" type="java.lang.String" value="Order for foods"/>
