@@ -7,7 +7,7 @@ package MainPackage;
 
 /**
  *
- * @author USER
+ * @author Raph
  */
 import java.sql.*;
 import java.awt.*;
@@ -85,8 +85,8 @@ catch (Exception exc)
     } 
 if(pass.equals(pass1))
     {
-        JOptionPane.showMessageDialog(jPanel1,"Success, you are in","Success!",JOptionPane.INFORMATION_MESSAGE);
         this.dispose();
+       new Admin().setVisible(true);
     }
  else
      {
