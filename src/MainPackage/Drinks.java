@@ -302,7 +302,7 @@ this.dispose();        // TODO add your handling code here:
         }
         else{
         int choice;
-            choice=JOptionPane.showConfirmDialog(jPanel2,"An order for "+DrinkName+" will be  placed! Are you sure you want to place the order?","Order Confirmation",JOptionPane.YES_NO_OPTION);
+            choice=JOptionPane.showConfirmDialog(jPanel2,"An order for "+DrinkName+" will be  placed! Are sure you want to place the order?","Order Confirmation",JOptionPane.YES_NO_OPTION);
         if(choice==JOptionPane.YES_OPTION)
         {
           MakeDrinkOrder();              
